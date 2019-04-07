@@ -1,8 +1,8 @@
-# Alfred-Jira
+# Alfred-Jira with Luminate support
 This is a workflow for Alfred 2 (or Alfred 3) that can be used to interact with [JIRA](http://www.atlassian.com/jira).
 ![Alt text](https://github.com/steyep/alfred-jira/raw/master/resources/demo.gif)
 
-## [Lumiante.io][https://luminate.io] support
+## [Lumiante.io](https://luminate.io) support
 * Follow the installation instructions
 * Obtain an API token for luminate with access configured to the jira application
 * Define the following environment variables for the Workflow:
